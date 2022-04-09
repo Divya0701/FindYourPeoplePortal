@@ -1,0 +1,91 @@
+.homeBgContainer{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    background-color: #222629;
+}
+.sideNavbar{
+    width: 15vw;
+    border-right:2px solid #61892f;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.navbarItem{
+    border-left: 2px solid #86c232;
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 200px;
+    height: 70px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.navHead{
+    color:#61892f;
+    font-size: 20px;
+    cursor: pointer;
+}
+.inn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.iconss{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    color: #61892f;
+    margin-left: 30px;
+}
+.jj{
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.jk{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Cambria;
+    color:#86c232;
+}
+.one
+{
+    display: flex;
+}
+.quotes
+{
+    border: 6px greenyellow;
+    border: 1px solid yellow;
+    height: 130px;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+.quote
+{
+    margin-left: 5px;
+    margin-right: 5px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.service
+{
+    position: relative;
+    left: 230px;
+    margin-bottom: 10px;
+    color: lavender;
+    font-family: verdana;
+}
+.innerdiv
+{
+    display: flex;
+    flex-direction: column;
+}
+.formimage
+{
+    display: flex;
+    flex-direction: row;
+}
